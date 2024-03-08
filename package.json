@@ -1,0 +1,11 @@
+{
+  "name": "filmfinder",
+  "version": "1.0.0",
+  "description": "App finding movies with backend express and frontend with react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "patychavez",
+  "license": "ISC"
+}
